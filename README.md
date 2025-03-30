@@ -1,16 +1,54 @@
-# trustforge
+TrustForge
 
-A new Flutter project.
+TrustForge is a powerful and secure cryptocurrency application designed for seamless sending and receiving of crypto assets. It also allows users to check cryptocurrency prices, convert crypto to USD, and enjoy various other features that enhance the crypto experience.
 
-## Getting Started
+Features
 
-This project is a starting point for a Flutter application.
+Send & Receive Crypto – Easily transfer and receive cryptocurrencies securely.
 
-A few resources to get you started if this is your first Flutter project:
+Crypto Price Tracking – Stay updated with real-time crypto prices.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Crypto to USD Conversion – Convert your crypto assets to USD instantly.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Secure & Fast Transactions – Ensuring top-notch security for every transaction.
+
+Multiple Updates & Enhancements – Regular updates for improved functionality and user experience.
+
+Tech Stack
+
+Framework: Flutter (Cross-platform mobile development)
+
+State Management: Provider / stacked
+
+Networking:  HTTP package
+
+Database:  My SQL / shared_preferences
+
+Backend: Node.js
+
+Installation
+
+Clone the repository:
+
+git clone https://github.com/Marveltech23/trustforge.git
+
+Navigate to the project directory:
+
+cd trustforge
+
+Install dependencies:
+
+flutter pub get
+
+Run the app:
+
+flutter run
+
+
+License
+
+MIT License
+
+Contact
+
+For any inquiries or support, reach out via email at Marvity@23gmail.com or connect on LinkedIn - www.linkedin.com/in/marvellous-itai-894b8a213
